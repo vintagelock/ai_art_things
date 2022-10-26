@@ -7,3 +7,7 @@ GFP-GAN (Hugging Face) : https://huggingface.co/spaces/Xintao/GFPGAN
 
 openart : https://openart.ai/
 lexica : https://lexica.art/
+
+
+https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion
+
