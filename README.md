@@ -4,6 +4,9 @@ GFP-GAN : https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV
 
 GFP-GAN (Hugging Face) : https://huggingface.co/spaces/Xintao/GFPGAN
 
+https://replicate.com/xinntao/realesrgan
+
+
 # image search
 
 openart : https://openart.ai/
