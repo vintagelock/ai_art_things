@@ -6,6 +6,7 @@ GFP-GAN (Hugging Face) : https://huggingface.co/spaces/Xintao/GFPGAN
 
 https://replicate.com/xinntao/realesrgan
 
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 # image search
 
