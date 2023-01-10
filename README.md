@@ -12,6 +12,8 @@ SD 1.5 (No Filter) : https://dezgo.com/
 
 SD 1.5 Protogen 3.4 model : https://huggingface.co/spaces/darkstorm2150/Stable-Diffusion-Protogen-x3.4-webui
 
+SD on AMD GPU : https://github.com/nod-ai/SHARK
+
 # image search
 
 openart : https://openart.ai/
