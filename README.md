@@ -8,6 +8,8 @@ https://replicate.com/xinntao/realesrgan
 
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
+SD 1.5 (No Filter) : https://dezgo.com/
+
 # image search
 
 openart : https://openart.ai/
