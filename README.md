@@ -14,6 +14,8 @@ SD 1.5 Protogen 3.4 model : https://huggingface.co/spaces/darkstorm2150/Stable-D
 
 SD on AMD GPU : https://github.com/nod-ai/SHARK
 
+webui : https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
 # image search
 
 openart : https://openart.ai/
