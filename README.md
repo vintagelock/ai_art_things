@@ -16,6 +16,9 @@ SD on AMD GPU : https://github.com/nod-ai/SHARK
 
 webui : https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
+LORA training : https://replicate.com/cloneofsimo/lora-training
+
+
 # image search
 
 openart : https://openart.ai/
