@@ -18,6 +18,10 @@ webui : https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 LORA training : https://replicate.com/cloneofsimo/lora-training
 
+tensor art - https://tensor.art/
+
+sea art - https://www.seaart.ai/home
+
 
 # image search
 
